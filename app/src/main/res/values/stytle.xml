@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="roboto10">
+        <item name="fontFamily">@font/roboto</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_8ssp</item>
+    </style>
+
+    <style name="roboto13">
+        <item name="fontFamily">@font/roboto</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_10ssp</item>
+    </style>
+
+    <style name="robotoMedium13">
+        <item name="fontFamily">@font/roboto_medium</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_10ssp</item>
+    </style>
+
+    <style name="robotoBold13">
+        <item name="fontFamily">@font/roboto_bold</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_10ssp</item>
+    </style>
+
+    <style name="roboto15">
+        <item name="fontFamily">@font/roboto</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_12ssp</item>
+    </style>
+    <style name="robotoMedium15">
+        <item name="fontFamily">@font/roboto_medium</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_12ssp</item>
+    </style>
+
+    <style name="robotoBold15">
+        <item name="fontFamily">@font/roboto_bold</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_12ssp</item>
+    </style>
+
+    <style name="roboto18">
+        <item name="fontFamily">@font/roboto</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_15ssp</item>
+    </style>
+    <style name="robotoMedium18">
+        <item name="fontFamily">@font/roboto_medium</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_15ssp</item>
+    </style>
+
+    <style name="robotoBold18">
+        <item name="fontFamily">@font/roboto_bold</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_15ssp</item>
+    </style>
+
+    <style name="roboto20">
+        <item name="fontFamily">@font/roboto</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_17ssp</item>
+    </style>
+    <style name="robotoMedium20">
+        <item name="fontFamily">@font/roboto_medium</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_17ssp</item>
+    </style>
+
+    <style name="robotoBold20">
+        <item name="fontFamily">@font/roboto_bold</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_17ssp</item>
+    </style>
+
+    <style name="robotoBold28">
+        <item name="fontFamily">@font/roboto_bold</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/_24ssp</item>
+    </style>
+    
+</resources>

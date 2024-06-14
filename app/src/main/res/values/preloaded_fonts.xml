@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/aclonica</item>
+        <item>@font/acme</item>
+        <item>@font/akaya_telivigala</item>
+        <item>@font/akronim</item>
+        <item>@font/alef</item>
+        <item>@font/alex_brush</item>
+        <item>@font/alfa_slab</item>
+        <item>@font/allan</item>
+        <item>@font/amarante</item>
+        <item>@font/amatic_sc</item>
+        <item>@font/amatica_sc_bold</item>
+        <item>@font/amita</item>
+        <item>@font/architects</item>
+        <item>@font/baloo</item>
+        <item>@font/bonbon</item>
+        <item>@font/caveat_brush</item>
+        <item>@font/coiny</item>
+        <item>@font/dekko</item>
+        <item>@font/denk_one</item>
+        <item>@font/fredoka_one</item>
+        <item>@font/inria_sans</item>
+        <item>@font/inria_sans_light</item>
+        <item>@font/inter</item>
+        <item>@font/jua</item>
+        <item>@font/kalam_bold</item>
+        <item>@font/leckerli_one</item>
+        <item>@font/lemonada_bold</item>
+        <item>@font/mansalva</item>
+        <item>@font/margarine</item>
+        <item>@font/nerko_one</item>
+        <item>@font/roboto</item>
+        <item>@font/roboto_bold</item>
+        <item>@font/roboto_medium</item>
+        <item>@font/sacramento</item>
+        <item>@font/satisfy</item>
+        <item>@font/shrikhand</item>
+        <item>@font/slackey</item>
+    </array>
+</resources>

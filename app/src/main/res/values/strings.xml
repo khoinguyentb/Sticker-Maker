@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name" translatable="false">ST051_StickerMaker</string>
+
+    <string name="StickerMaker" translatable="false"> Sticker\nMaker </string>
+    <string name="DIYSticker">DIY Sticker</string>
+
+    <string name="desTitle">Unleash your creativity, design new stickers according to your ideas</string>
+
+    <string name="desSPlash">This action may contain advertising</string>
+    <string name="Language">Language</string>
+    <string name="Next">Next</string>
+    <string name="Create">Create</string>
+    <string name="Sticker_Maker">Sticker Maker</string>
+    <string name="MySticker">My Sticker </string>
+    <string name="NewPack">New Pack</string>
+    <string name="Settings">Settings</string>
+    <string name="RateUs">Rate Us</string>
+    <string name="ShareApp">Share App</string>
+    <string name="PrivacyPolicy">Privacy Policy</string>
+
+    <string name="title_intro1">Start Experiencing</string>
+    <string name="title_intro2">Sticker Maker</string>
+    <string name="title_intro3">Fun Stickers</string>
+    <string name="des_intro1">Express your emotions through creating personalized stickers, animated stickers,…</string>
+    <string name="des_intro2">Support creativity with outstanding tools: square, lasso, add text, sticker,…</string>
+    <string name="des_intro3">provides many interesting and funny sticker sets for you</string>
+    <string name="Regular">Regular</string>
+    <string name="StickerWithPhoto">Sticker with photo</string>
+    <string name="StickerWithText">Sticker\nwith text</string>
+    <string name="CreateTextSticker">Create text sticker</string>
+    <string name="DIYNow">DIY Now</string>
+    <string name="Animated1">Animated 1</string>
+    <string name="CreateAnimationsImage">Create animations\nfrom images</string>
+    <string name="Animated2">Animated 2</string>
+    <string name="CreateAnimationsVideo">Create animations\nfrom video</string>
+    <string name="hintSearch">Search for sticker</string>
+    <string name="Download">Download</string>
+
+    //rate
+    <string name="title_rate_0">Do you like the app?</string>
+    <string name="des_rate_0">Let us know your experience</string>
+
+    <string name="title_rate_1">Oh, no!</string>
+    <string name="des_rate_1">Please give us some feedback</string>
+
+    <string name="title_rate_2">Oh, no!</string>
+    <string name="des_rate_2">Please give us some feedback</string>
+
+    <string name="title_rate_3">Oh, no!</string>
+    <string name="des_rate_3">Please give us some feedback</string>
+
+    <string name="title_rate_4">We love you too!</string>
+    <string name="des_rate_4">Thanks for your feedback</string>
+
+    <string name="title_rate_5">We love you too!</string>
+    <string name="des_rate_5">Thanks for your feedback</string>
+    <string name="btn_rate">Rate</string>
+    <string name="btn_exit">Exit</string>
+
+    <string name="Recently">Recently</string>
+
+    <string name="setting">Setting</string>
+    <string name="Agree">Agree</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_dialog_permission">Feature Permission</string>
+    <string name="content_dialog_permission">You have chosen not to ask for the camera permission again. Please go to the app settings to grant permission.</string>
+    <string name="reset">RESET</string>
+    <string name="Square">Square</string>
+    <string name="Shape">Shape</string>
+    <string name="FreeHand">Free hand</string>
+    <string name="CutOut">Cut Out</string>
+    <string name="Edit">Edit</string>
+    <string name="Text">Text</string>
+    <string name="Sticker">Sticker</string>
+    <string name="Effect">Effect</string>
+    <string name="Border">Border</string>
+    <string name="Align">Align</string>
+    <string name="Font">Font</string>
+    <string name="Alignment">Alignment</string>
+    <string name="TextShadow">Text Shadow</string>
+    <string name="Decoration">Decoration</string>
+    <string name="Case">Case</string>
+    <string name="Background">Background</string>
+    <string name="Shadow">Shadow</string>
+    <string name="hint">Enter your text sticker</string>
+    <string name="TextSticker">Text Sticker</string>
+    <string name="VideoCutter">Video Cutter</string>
+    <string name="ChoosePack">Choose Pack</string>
+    <string name="SaveToPack">Save to Pack</string>
+</resources>

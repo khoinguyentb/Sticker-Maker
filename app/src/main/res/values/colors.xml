@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="transfers">#00000000</color>
+
+    <color name="blue78CFCE">#78CFCE</color>
+    <color name="pinkF599B8">#F599B8</color>
+    <color name="yellow">#E3C762</color>
+
+    <color name="strock">#4F1500</color>
+
+    <color name="bgHome1">#FDEBEE</color>
+    <color name="textColor1">#FF7B90</color>
+
+    <color name="bgHome2">#E7FCFC</color>
+    <color name="textColor2">#15D3D1</color>
+
+    <color name="bgHome3">#FFEBE4</color>
+    <color name="textColor3">#FF5924</color>
+
+    <color name="bgHome4">#FFF7DA</color>
+    <color name="textColor4">#FFC800</color>
+    
+    <color name="blue7DD3D2">#7DD3D2</color>
+    <color name="gray939393">#939393</color>
+    <color name="gray949494">#949494</color>
+
+    <color name="selectorFolder">#1A7DD3D2</color>
+
+    <color name="color_1">#FFFFFF</color>
+    <color name="color_2">#B3B3B3</color>
+    <color name="color_3">#5C5C5C</color>
+    <color name="color_4">#000000</color>
+    <color name="color_5">#FFC3C3</color>
+    <color name="color_6">#F88080</color>
+    <color name="color_7">#EC4A4A</color>
+    <color name="color_8">#EAB691</color>
+    <color name="color_9">#EB9F69</color>
+    <color name="color_10">#EA7E31</color>
+    <color name="color_11">#E4DC91</color>
+    <color name="color_12">#EDDF5E</color>
+    <color name="color_13">#FFE706</color>
+    <color name="color_14">#B3EA7D</color>
+    <color name="color_15">#A2EB5A</color>
+    <color name="color_16">#80F20E</color>
+    <color name="color_17">#80F20E</color>
+    <color name="color_18">#72EEC9</color>
+    <color name="color_19">#16EBAB</color>
+    <color name="color_20">#A2F1EC</color>
+    <color name="color_21">#62ECE4</color>
+    <color name="color_22">#05EBDD</color>
+    <color name="color_23">#9EC4E7</color>
+    <color name="color_24">#9EC4E7</color>
+    <color name="color_25">#046FD8</color>
+    <color name="color_26">#C4B2EB</color>
+    <color name="color_27">#A381EC</color>
+    <color name="color_28">#A381EC</color>
+
+</resources>

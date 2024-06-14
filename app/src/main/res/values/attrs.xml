@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <declare-styleable name="GradientStrokedTextView">-->
+<!--        <attr name="strokeThickness" format="dimension"/>-->
+<!--        <attr name="strokeColor" format="color"/>-->
+<!--        <attr name="gradientStartColor" format="color"/>-->
+<!--        <attr name="gradientEndColor" format="color"/>-->
+<!--    </declare-styleable>-->
+
+    <declare-styleable name="StrokedTextView">
+        <attr name="strokeThickness" format="dimension"/>
+        <attr name="strokeColor1" format="color"/>
+        <attr name="gradientStartColor" format="color"/>
+        <attr name="gradientEndColor" format="color"/>
+        <attr name="fontWeight" format="integer"/>
+        <attr name="lineHeight" format="dimension"/>
+    </declare-styleable>
+
+
+    <declare-styleable name="StrokeTextView">
+
+        <attr name="outerShadowRadius" format="dimension" />
+        <attr name="strokeWidth" format="dimension" />
+        <attr name="strokeMiter" format="dimension" />
+        <attr name="strokeColor" format="color" />
+        <attr name="strokeJoinStyle">
+            <enum name="miter" value="0" />
+            <enum name="bevel" value="1" />
+            <enum name="round" value="2" />
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="RulerView">
+        <attr name="rv_defaultValue" format="float|reference" />
+        <attr name="rv_minValue" format="float|reference" />
+        <attr name="rv_maxValue" format="float|reference" />
+        <attr name="rv_spanValue" format="float|reference" />
+        <attr name="rv_itemSpacing" format="dimension|reference" />
+        <attr name="rv_minLineHeight" format="dimension|reference" />
+        <attr name="rv_maxLineHeight" format="dimension|reference" />
+        <attr name="rv_middleLineHeight" format="dimension|reference" />
+        <attr name="rv_minLineWidth" format="dimension|reference" />
+        <attr name="rv_maxLineWidth" format="dimension|reference" />
+        <attr name="rv_middleLineWidth" format="dimension|reference" />
+        <attr name="rv_scaleTextColor" format="color|reference" />
+        <attr name="rv_minLineColor" format="color|reference" />
+        <attr name="rv_maxLineColor" format="color|reference" />
+        <attr name="rv_middleLineColor" format="color|reference" />
+        <attr name="rv_scaleTextSize" format="dimension|reference" />
+        <attr name="rv_textMarginTop" format="dimension|reference" />
+        <attr name="rv_indcatorColor" format="color|reference" />
+        <attr name="rv_indcatorWidth" format="dimension|reference" />
+        <attr name="rv_indcatorHeight" format="dimension|reference" />
+        <attr name="rv_indcatorType" format="enum|reference">
+            <enum name="line" value="1" />
+            <enum name="triangle" value="2" />
+        </attr>
+        <attr name="rv_strokeCap" format="enum|reference">
+            <enum name="round" value="1" />
+            <enum name="butt" value="0" />
+            <enum name="square" value="2" />
+        </attr>
+        <attr name="rv_resultTextColor" format="color|reference" />
+        <attr name="rv_unitTextColor" format="color|reference" />
+        <attr name="rv_resultTextSize" format="dimension|reference" />
+        <attr name="rv_unitTextSize" format="dimension|reference" />
+        <attr name="rv_unit" format="string|reference" />
+        <attr name="rv_showResult" format="boolean|reference" />
+        <attr name="rv_showUnit" format="boolean|reference" />
+        <attr name="rv_alphaEnable" format="boolean|reference" />
+    </declare-styleable>
+
+    <declare-styleable name="StickerView">
+        <attr name="showIcons" format="boolean" />
+        <attr name="showBorder" format="boolean" />
+        <attr name="bringToFrontCurrentSticker" format="boolean" />
+        <attr name="borderColor" format="color"/>
+        <attr name="borderAlpha" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="PhotoEditorView">
+        <attr name="photo_src" format="integer" />
+    </declare-styleable>
+
+</resources>

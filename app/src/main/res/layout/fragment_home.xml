@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_home"
+    tools:context=".ui.fragment.HomeFragment">
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline_horizontal2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.6"/>
+
+    <com.kan.dev.st051_stickermaker.utils.StrokeTextView
+        android:id="@+id/stvSticker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/shrikhand"
+        android:paddingHorizontal="@dimen/_10sdp"
+        android:layout_marginTop="@dimen/_40sdp"
+        android:text="@string/StickerMaker"
+        android:textSize="@dimen/_24sdp"
+        app:lineHeight="@dimen/_20sdp"
+        android:textColor="#FEC303"
+        app:layout_constraintEnd_toStartOf="@+id/guideline_horizontal2"
+        app:layout_constraintTop_toTopOf="parent"
+        app:strokeColor="#4F1500"
+        app:strokeWidth="2dp" />
+
+    <com.kan.dev.st051_stickermaker.utils.StrokeTextView
+        android:id="@+id/stvSticker2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/shrikhand"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:paddingHorizontal="@dimen/_10sdp"
+        android:translationY="-35dp"
+        android:text="@string/DIYSticker"
+        android:textSize="@dimen/_24sdp"
+        app:lineHeight="@dimen/_20sdp"
+        android:textColor="#FEC303"
+        app:layout_constraintEnd_toStartOf="@+id/guideline_horizontal2"
+        app:layout_constraintTop_toBottomOf="@id/stvSticker"
+        app:strokeColor="#4F1500"
+        app:strokeWidth="2dp" />
+
+
+<!--    <com.kan.dev.st051_stickermaker.utils.StrokedTextView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="@dimen/_35sdp"-->
+
+<!--        android:text="@string/StickerMaker"-->
+<!--        android:textColor="#FEC303"-->
+<!--        app:gradientStartColor="#FEC303"-->
+<!--        app:gradientEndColor="#FEC303"-->
+<!--        app:strokeThickness="2dp"-->
+<!--        app:strokeColor="#4F1500"-->
+<!--        android:fontFamily="@font/shrikhand"-->
+<!--        android:textSize="@dimen/_20sdp"-->
+<!--        app:lineHeight="@dimen/_15sdp"-->
+<!--        app:layout_constraintEnd_toStartOf="@+id/guideline_horizontal2"-->
+<!--        app:layout_constraintTop_toTopOf="parent" />-->
+
+    <TextView
+        style="@style/roboto13"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_40sdp"
+        android:layout_marginEnd="@dimen/_20sdp"
+        android:gravity="start"
+        android:maxLines="3"
+        android:text="@string/desTitle"
+        android:textColor="#555555"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/guideline_horizontal2"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rcvHome"
+        tools:listitem="@layout/item_home"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/stvSticker2"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
